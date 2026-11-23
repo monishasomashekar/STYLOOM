@@ -38,6 +38,14 @@ STYLOOM aims to simplify the tailoring process through a digital platform where 
 
 To be updated with the technologies actually used in the implementation.
 
+Project Documentation
+
+Explore the project documents below:
+Problem Statement
+Proposed Solution
+System Architecture
+Technology Stack
+
 ## Team CODENOVA
 
 1. Moulya KP

@@ -1,55 +1,57 @@
 # STYLOOM – Your Style. Your Fit. Your Way.
 
-**Team:** CODENOVA  
-**Hackathon:** wHACKiest 2026  
-**College:** SAPTHAGIRI NPS UNIVERSITY
+**Team Name:** CODENOVA  
+**College:** SAPTHAGIRI NPS UNIVERSITY  
+**Event:** wHACKiest 2026 Ideathon  
+**Track:** 03  
+**Team ID:** 3a0640ce
 
 ## About the Project
 
-STYLOOM is a proposed digital custom-tailoring platform that aims to connect customers with tailors through a convenient online experience.
+STYLOOM is a digital custom-tailoring platform designed to connect customers with local tailors and make personalised clothing more convenient.
 
-Customers will be able to choose garments, select fabrics and designs, submit their measurements and track their tailoring orders.
+Customers can explore garment options, select fabrics and designs, provide measurements, place tailoring orders and track their order progress through one platform.
 
 ## Problem Statement
 
-Traditional tailoring can involve multiple visits, manual measurement records, limited design communication and difficulty tracking order progress.
+Traditional tailoring often involves repeated visits, manual communication, measurement difficulties and limited visibility into order progress. This can make the tailoring experience inconvenient for customers and difficult for tailors to manage efficiently.
 
-## Our Proposed Solution
+## Proposed Solution
 
-STYLOOM aims to simplify the custom-tailoring process by bringing customer requirements and tailor order management into one digital platform.
+STYLOOM aims to simplify the tailoring process through a digital platform where customers and tailors can connect, customise clothing and manage orders.
 
-## Planned Key Features
+## Key Features
 
-- Custom garment selection
-- Fabric, colour and design selection
-- Customer measurement form
-- Tailor order management dashboard
+- Garment and clothing selection
+- Fabric and design customisation
+- Customer measurement submission
+- Tailor order management
 - Order status tracking
-- Delivery information
+
+## Target Users
+
+- Customers looking for customised clothing
+- Local tailoring shops and independent tailors
+- Small boutique businesses
 
 ## Technology Stack
 
-To be finalised based on the technologies used to build the working prototype.
+To be updated with the technologies actually used in the implementation.
 
 ## Team CODENOVA
 
-A four-member student team from SAPTHAGIRI NPS UNIVERSITY.
-Moulya KP  25SUUBECS0798 ,
-Monisha S  25SUUBECS0797 ,
-Nandan C   25SUUBECS0820 ,
-Nandeesh I Myageri  25SUUBECS0822
+1. Moulya KP
+2. Monisha S
+3. Nandan C
+4. Nandeesh I Myageri
 
 ## Project Status
 
-Currently under development for wHACKiest 2026.
+Currently under development as part of the wHACKiest 2026 Ideathon and Hackathon.
 
 ## Future Scope
 
 - AI-assisted measurement guidance
 - Virtual garment previews
 - Tailor recommendations
-- Online payments and delivery integration
-
----
-
-*STYLOOM – Your Style. Your Fit. Your Way.*
+- Additional personalisation features

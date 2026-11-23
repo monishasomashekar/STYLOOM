@@ -34,6 +34,10 @@ To be finalised based on the technologies used to build the working prototype.
 ## Team CODENOVA
 
 A four-member student team from SAPTHAGIRI NPS UNIVERSITY.
+Moulya KP  25SUUBECS0798
+Monisha S  25SUUBECS0797
+Nandan C   25SUUBECS0820
+Nandeesh I Myageri  25SUUBECS0822
 
 ## Project Status
 

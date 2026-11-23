@@ -37,14 +37,14 @@ STYLOOM aims to simplify the tailoring process through a digital platform where 
 ## Technology Stack
 
 To be updated with the technologies actually used in the implementation.
+## Project Documentation
 
-Project Documentation
+Explore the detailed documentation of STYLOOM:
 
-Explore the project documents below:
-Problem Statement
-Proposed Solution
-System Architecture
-Technology Stack
+1. [Problem Statement](docs/problem-statement.md)
+2. [Proposed Solution](docs/proposed-solution.md)
+3. [System Architecture](docs/architecture.md)
+4. [Technology Stack](docs/docs/docs/technology-stack.md)
 
 ## Team CODENOVA
 

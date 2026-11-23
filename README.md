@@ -3,7 +3,7 @@
 **Team Name:** CODENOVA  
 **College:** SAPTHAGIRI NPS UNIVERSITY  
 **Event:** wHACKiest 2026 Ideathon  
-**Track:** 03  
+**Track:** 02
 **Team ID:** 3a0640ce
 
 ## About the Project
